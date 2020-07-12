@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "rm -rf ./doc && build-storybook -c .storybook -o doc"
+    "build-storybook": "rm -rf ./doc && build-storybook -c .storybook -o docs"
   },
   "keywords": [],
   "author": "",
